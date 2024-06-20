@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Map from "./components/Map";
 
 function App() {
+// Main component
   return (
     <>
       <Navbar />
